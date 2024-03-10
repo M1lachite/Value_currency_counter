@@ -71,8 +71,8 @@ def main():
 
         elif decyzja == "0":
             print("Dziękuję, do zobaczenia.")
-            break  # Jeżeli użytkownik wybierze 0, to wyjście z programu
-
+            break
+        
         else:
             print("Nieprawidłowy wybór. Spróbuj ponownie.")
 
